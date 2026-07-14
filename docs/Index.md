@@ -76,6 +76,7 @@
 
 | File | What it covers |
 | --- | --- |
+| [**Complete Report (single file)**](./D365-Licensing-Complete-Report.md) | All topic files stitched into one document with a table of contents — for reading or exporting end to end |
 | [Glossary](./GLOSSARY.md) | Definitions of Base, Attach, User/Device/Tenant SL, multiplexing, dual use, seeded license, etc. |
 | [Sources](./SOURCES.md) | Full registry of every official Microsoft source cited across the knowledge base |
 
